@@ -6,5 +6,5 @@ Application for managing your favorite city places:
 
 Used frameworks:
 - UI Kit
-- Core Data
 - Map Kit
+- [Realm](https://realm.io)
